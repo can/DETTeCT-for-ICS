@@ -5,7 +5,7 @@
 
 To get started with DeTT&CT for ICS, you can check out DeTT&CT [page](https://github.com/rabobank-cdc/DeTTECT/wiki/Getting-started) where the original idea comes from.
 
-DeTT&CT for ICS is based on ATT&CK for ICS [page](https://collaborate.mitre.org/attackics/index.php/Main_Page) and DeTT&CT framework [page](https://github.com/rabobank-cdc/DeTTECT) and aims to assist ICS blue teams using 'ATT&CK for ICS' to score and compare data log source quality, visibility coverage, detection coverage and threat actor behaviours. All of which can help, in different ways, to get more resilient against attacks targeting your organisation. The DeTT&CT for ICS framework consists of a Python tool, YAML administration files and scoring tables for the different aspects.
+DeTT&CT for ICS is based on [ATT&CK for ICS](https://collaborate.mitre.org/attackics/index.php/Main_Page) and [DeTT&CT](https://github.com/rabobank-cdc/DeTTECT) framework and aims to assist ICS blue teams using 'ATT&CK for ICS' to score and compare data log source quality, visibility coverage, detection coverage and threat actor behaviours. All of which can help, in different ways, to get more resilient against attacks targeting your organisation. The DeTT&CT for ICS framework consists of a Python tool, YAML administration files and scoring tables for the different aspects.
 
 DeTT&CT for ICS provides the following functionality:
 
