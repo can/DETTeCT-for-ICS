@@ -28,7 +28,7 @@ DeTT&CT for ICS was inspired by the work of others:
 - The MITRE ATT&CK Mapping project on GitHub:
   https://github.com/siriussecurity/mitre-attack-mapping.
   
-### Please keep in mind that DeTT&CT for ICS is an ongoing development project and is not ready to use yet.
+### Please keep in mind that DeTT&CT for ICS is an ongoing development project and is not ready to use yet. The original DeTT&CT project will be converted to adapt ATT&CK for ICS and new features will be added based on The MITRE ATT&CK for ICS tactics and techniques.
 
 ## License: GPL-3.0
 [DeTT&CT for ICS's GNU General Public License v3.0](https://github.com/can/DETTeCT-for-ICS/blob/master/LICENSE)
