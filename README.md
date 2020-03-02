@@ -19,7 +19,7 @@ The coloured visualisations are created with the help of MITRE's [ATT&CK™ Navi
 ## Authors and contribution
 This project is developed and maintained by [Can Kurnaz](https://github.com/can) (Twitter: [@0x43414e](https://twitter.com/0x43414e))
 
-Any contribution would be ! Contributions can be both in code, as well as in ideas you might have for further development, usability improvements, etc.
+Any contribution would be highly appreciated! Contributions can be both in code, as well as in ideas you might have for further development, usability improvements, etc.
 
 ### Work of others
 DeTT&CT for ICS was inspired by the work of others:
