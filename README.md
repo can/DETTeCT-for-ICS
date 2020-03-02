@@ -1,4 +1,4 @@
-<img src="https://github.com/can/DETTeCT-for-ICS/blob/master/DeTTeCT-for-ICS-logo.png" alt="DeTT&CT for ICS" width=30% height=30%>
+<img src="https://github.com/can/DETTeCT-for-ICS/blob/master/DeTTeCT-for-ICS-logo.png" alt="DeTT&CT for ICS" width=50% height=50%>
 
 # DeTT&CT for ICS
 #### Detect Tactics, Techniques & Combat Threats for ICS environment
